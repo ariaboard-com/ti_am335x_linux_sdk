@@ -1,0 +1,4 @@
+start=2048, size=64MiB, type=e, bootable
+size=1536MiB, type=83
+size=256MiB, type=83
+size=1536MiB, type=83

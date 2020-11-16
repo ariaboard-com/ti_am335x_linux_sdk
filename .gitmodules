@@ -1,0 +1,6 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/ariaboard-com/ti_am335x_uboot.git
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/ariaboard-com/generic_arm_buildroot.git
